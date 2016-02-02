@@ -1,6 +1,6 @@
 # Project Euler
 
-Resolutions to [Project Euler's](https://projecteuler.net) problems, written in Lua, with [busted](http://olivinelabs.com/busted/) unit testing framework.
+Solutions to [Project Euler's](https://projecteuler.net) problems, written in Lua, and with [busted](http://olivinelabs.com/busted/) unit testing framework.
 
 ## License
 
